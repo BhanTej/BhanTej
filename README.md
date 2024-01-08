@@ -2,7 +2,10 @@
 
 **`Software Developer`**
 
-Replace with Tej's short description.
+I am a current Computer Science Major at the University of Washington. My passion is working on full-stack personal projects that get me out of my comfort zone. I plan to use the coding skills I aquire from my years at UW to further help the people around me. If you want to reach out to me, you can do so by emailing tejbhan@live.com or sending me a message on Discord at nev1on.
+
+[![Discord](https://img.shields.io/badge/Discord-nev1on%230123-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/nev1on)
+
 
 ---
 
@@ -23,11 +26,11 @@ Replace with Tej's short description.
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
----
+#
 
 ### 📊 Stats
 
-![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzero&show_icons=true&theme=gruvbox)
+![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzero&show_icons=true&theme=tokyonight)
 
 #
 
