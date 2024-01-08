@@ -4,7 +4,7 @@
 
 I am a current Computer Science Major at the University of Washington. My passion is working on full-stack personal projects that get me out of my comfort zone. I plan to use the coding skills I aquire from my years at UW to further help the people around me. If you want to reach out to me, you can do so by emailing tejbhan@live.com or sending me a message on Discord at nev1on.
 
-[![Discord](https://img.shields.io/badge/Discord-nev1on%230123-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/nev1on)
+[![Discord](https://img.shields.io/badge/Discord-nev1on%230123-7289DA?style=flat-square&logo=discord&logoColor=white)](nev1on)
 
 
 ---
