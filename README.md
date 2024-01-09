@@ -36,6 +36,6 @@ I am a current Computer Science Major at the University of Washington. My passio
 
 #
 
-<details>
+<!-- <details>
  <summary><h3>👨‍💻 Tej's Coding Journey</h3></summary>
-   Fill with journey text.
+   Fill with journey text. -->
