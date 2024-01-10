@@ -1,4 +1,4 @@
-# 🏄‍♂️ Tej Bhan
+# Tej Bhan
 
 **`Software Developer`**
 
