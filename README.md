@@ -32,7 +32,7 @@ I am a current Computer Science Major at the University of Washington. My passio
 
 ### 📊 Stats
 
-![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzero&show_icons=true&theme=tokyonight)
+![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhanTej&show_icons=true&theme=tokyonight)
 
 #
 
