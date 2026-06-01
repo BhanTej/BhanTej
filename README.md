@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I am a current Computer Science Major at the University of Washington. My passion is working on full-stack personal projects that get me out of my comfort zone. I plan to use the coding skills I aquire from my years at UW to further help the people around me. If you want to reach out to me, you can do so by using the buttons below.
+I am a Computer Science Alumni from the University of Washington. My passion is working on full-stack personal projects that get me out of my comfort zone. I plan to use the coding skills I aquire from my years at UW to further help the people around me. If you want to reach out to me, you can do so by using the buttons below.
 
 [![Email](https://img.shields.io/badge/Email-tejbhan%40live.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:tejbhan@live.com)
 
