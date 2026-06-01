@@ -29,12 +29,6 @@ I am a current Computer Science Major at the University of Washington. My passio
 
 #
 
-### 📊 Stats
-
-![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhanTej&show_icons=true&theme=tokyonight)
-
-#
-
 <!-- <details>
  <summary><h3>👨‍💻 Tej's Coding Journey</h3></summary>
    Fill with journey text. -->
